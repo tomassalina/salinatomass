@@ -7,7 +7,7 @@ Frontend Developer
 I learned to program self-taugh in 2020 and from there I’ve never stopped. I currently especialize in the MERN stack to work with, but I’m constantly trying to learn other things and incorporate new tools.
 
 * 🌍  I'm based in Argentina
-* 🖥️  See my portfolio at [salinatomass.com](http://salinatomass.github.io/salinatomass.com/)
+* 🖥️  See my portfolio at [salinatomass.netlify.app](http://salinatomass.netlify.app/)
 * ✉️  You can contact me at [salinatomass53@gmail.com](mailto:salinatomass53@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on any challenging project
