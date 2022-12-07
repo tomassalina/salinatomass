@@ -4,7 +4,7 @@ Hi 👋 My name is Tomas Salina
 Frontend Developer
 ------------------
 
-Self-taught passionate about web development. I specialize in creating professionals applications with JavaScript and React.js and I am currently have +50 projects where I could apply my skills. 
+Self-taught passionate about web development. I specialize in creating professionals applications with JavaScript and React.js and I currently have +50 projects where I could apply my skills. 
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [salinatomass.netlify.app](http://salinatomass.netlify.app/)
