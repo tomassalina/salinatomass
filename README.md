@@ -11,7 +11,7 @@ Self-taught passionate about web development. I specialize in creating professio
 * ✉️  You can contact me at [salinatomass53@gmail.com](mailto:salinatomass53@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on any challenging project
-* ⚡  I love swimming and playing piano
+* ⚡  I love playing piano and go to the gym
 
 ### Skills
 
